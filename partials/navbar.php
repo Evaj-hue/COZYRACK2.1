@@ -3,8 +3,6 @@
     <h2>CozyRack Management</h2>
     <div class="nav-links">
         <a href="profile.php">Profile</a>
-        <a href="settings.php">Settings</a>
-        <a href="logout.php">Logout</a>
     </div>
 </div>
 

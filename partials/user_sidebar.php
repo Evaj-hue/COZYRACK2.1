@@ -5,9 +5,9 @@
     </div>
     <a href="dashboard.php">Dashboard</a>
     <a href="view_racks.php">View Racks</a>
-    <a href="view_products.php">View Products</a>
+    <a href="../user/view_products.php">View Products</a>
     <a href="user_activitylogs.php">View Reports</a>
-    <a href="logout.php">Logout</a>
+    <a href="../logout.php">Logout</a>
 </div>
 
 <!-- Sidebar CSS -->
